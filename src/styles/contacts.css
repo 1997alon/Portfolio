@@ -1,0 +1,72 @@
+.contacts-Container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.icons-container a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+
+.contact-icon {
+  width: 60px;
+  height: auto;
+  margin-bottom: 10px;
+  transition: transform 0.3s ease;
+}
+
+.icons-container a:hover .contact-icon {
+  transform: scale(1.2);
+}
+
+.icons-container div {
+  font-size: 1rem;
+  color: #16117b;
+  font-weight: bold;
+}
+
+.topic-contacts {
+  color: rgb(16, 18, 114);
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: rgb(16, 18, 114);
+  text-underline-offset: 5px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+
+.resume-button {
+  background-color: #16117b;
+  color: white;
+  font-size: 1.1rem;
+  padding: 12px 24px;
+  margin-top: 50px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.resume-button:hover {
+  background-color: #14107a;
+  transform: scale(1.05);
+}
+
+.resume-button:focus {
+  outline: none;
+  box-shadow: 0 0 10px 2px rgba(22, 17, 123, 0.6);
+}
+
+.resume-button:active {
+  background-color: #12105e;
+  transform: scale(1);
+}
