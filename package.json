@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://1997alon.github.io/website",
+  "homepage": "https://1997alon.github.io/Portfolio",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "cra-template": "1.2.0",
