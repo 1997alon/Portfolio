@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f2aa336b.css",
+    "main.js": "/portfolio/static/js/main.617ec609.js",
+    "static/js/488.9d97ac5d.chunk.js": "/portfolio/static/js/488.9d97ac5d.chunk.js",
+    "static/media/AlonBar-DinCV.pdf": "/portfolio/static/media/AlonBar-DinCV.6ad5fd5beb47dbce187d.pdf",
+    "static/media/chatApp.jpg": "/portfolio/static/media/chatApp.e2620b314ebbea7b2b40.jpg",
+    "static/media/ChessSet.jpg": "/portfolio/static/media/ChessSet.1f2eb8c93f6d2e9dcbde.jpg",
+    "static/media/FullstackPic.jpg": "/portfolio/static/media/FullstackPic.9e76ae682c8e0d22e24e.jpg",
+    "static/media/LinuxPic.jpg": "/portfolio/static/media/LinuxPic.d2ef89181af65f043373.jpg",
+    "static/media/WhatsappIcon.png": "/portfolio/static/media/WhatsappIcon.89b8d5cd91c01b9bff6f.png",
+    "static/media/ClientServerPic.jpg": "/portfolio/static/media/ClientServerPic.4ee75a130b7f816c9f00.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f2aa336b.css.map": "/portfolio/static/css/main.f2aa336b.css.map",
+    "main.617ec609.js.map": "/portfolio/static/js/main.617ec609.js.map",
+    "488.9d97ac5d.chunk.js.map": "/portfolio/static/js/488.9d97ac5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2aa336b.css",
+    "static/js/main.617ec609.js"
+  ]
+}
