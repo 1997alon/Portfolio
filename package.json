@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://1997alon.github.io/Portfolio",
+  "homepage": "https://1997alon.github.io/portfolio",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "cra-template": "1.2.0",
@@ -12,12 +12,12 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
- "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
